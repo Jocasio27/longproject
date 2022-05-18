@@ -1,0 +1,576 @@
+.background_image{
+  background: linear-gradient(to top right, #343558, #413EAD, #458AD5, #AA3B6B, #7B0769);
+
+
+}
+
+.title{
+  font-family: Real Head Pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80pt;
+  color: white;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.pic1{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  padding-bottom: 10px;
+
+}
+
+.Elite2011{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.pic2{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  padding-bottom: 85px;
+  top: -20px;
+
+}
+
+.Masters2013{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pic3{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top: -100px;
+}
+
+.TOC2014{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+.pic4{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.Masters2014{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pic5{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.Masters2015{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+.pic6{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  padding: 40px;
+  top: -20px;
+}
+
+.TOC2015{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pic7{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.Players2017{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.pic8{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.Master2017{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.pic9{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.World2017{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.pic10{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  padding: 60px;
+  top:-20px;
+}
+
+.TOC2019{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pic11{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.World2019{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.pic12{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.Open2020{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.pic13{
+  position: relative;
+  left: 245px;
+  text-align: center;
+  height: 229px;
+  width:400px;
+  top:-20px;
+}
+
+.World2020{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+}
+
+.pic14{
+  position: relative;
+  left:735px;
+  height: 229px;
+  width:400px;
+  padding: 170px;
+  top:-120px;
+}
+
+.Players2022{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+.tbox1{
+  background: white;
+  height: 265px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  font-family: Real Head Pro, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  opacity:0;
+}
+
+.tbox2{
+  background: white;
+  height: 153px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+
+}
+
+.tbox3{
+  background: white;
+  height: 120px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox4{
+  background: white;
+  height: 320px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+}
+
+.tbox5{
+  background: white;
+  height: 190px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox6{
+  background: white;
+  height: 120px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+}
+
+.tbox7{
+  background: white;
+  height: 120px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox8{
+  background: white;
+  height: 100px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+}
+
+.tbox9{
+  background: white;
+  height: 325px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox10{
+  background: white;
+  height: 230px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+}
+
+.tbox11{
+  background: white;
+  height: 210px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox12{
+  background: white;
+  height: 340px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+}
+
+.tbox13{
+  background: white;
+  height: 170px;
+  width: 300px;
+  position: relative;
+  left: 10px;
+  opacity:0;
+}
+
+.tbox14{
+  background: white;
+  height: 320px;
+  width: 300px;
+  position: relative;
+  left: 1000px;
+  opacity: 0;
+  top: -110px;
+}
+
+.pic1:hover + .tbox1{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic2:hover + .tbox2{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic3:hover + .tbox3{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic4:hover + .tbox4{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic5:hover + .tbox5{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic6:hover + .tbox6{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic7:hover + .tbox7{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic8:hover + .tbox8{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic9:hover + .tbox9{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic10:hover + .tbox10{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic11:hover + .tbox11{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic12:hover + .tbox12{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic13:hover + .tbox13{
+  opacity: 1;
+  transition: .25s;
+}
+
+.pic14:hover + .tbox14{
+  opacity: 1;
+  transition: .25s;
+}
+
+#topBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#topBtn:hover {
+  background-color: #555;
+}
+
+
+.bio{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: relative;
+  float: left;
+  width: 500px;
+  font-size: 15pt;
+
+}
+
+.bio-pic{
+  width: 466px;
+  padding: 10px;
+  margin-right: 10px;
+  float: left;
+  position:relative;
+}
+
+.bio-title{
+  position: relative;
+  text-align: center;
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  font-size: 50pt;
+}
+
+.history{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  position: absolute;
+  text-align: center;
+  top:800px;
+  padding: 10px;
+  font-size: 15pt;
+  display: inline-block;
+  left:35%;
+
+}
+
+.history:hover{
+  transform: translateY(5px);
+}
+
+.back-to-bio{
+  font-family: Real Head Pro, sans-serif;
+  font-style: normal;
+  background: white;
+  width: 250px;
+  top: -10px;
+  position: relative;
+  text-align: center;
+  left: 30%;
+}
